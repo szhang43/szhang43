@@ -1,8 +1,6 @@
 <h1 align="center"><b>Hi , I'm Sophia Zhang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="center">A passionate <b>Full Stack Developer</b> from the United States</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=szhang43&label=Profile%20views&color=0e75b6&style=flat" alt="szhang43" /> </p>
+<h4 align="center">A passionate <b>Full Stack Developer</b> from the United States</h4
 
 - 🔭 Self-taught Full Stack Developer. 
 
