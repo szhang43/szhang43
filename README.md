@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sophia Zhang</h1>
 <h3 align="center">Passionate Software Developer in Oregon</h3>
 
-- 🌱 Current Student **I am currently pursuing a degree in Computer Science at the University of Oregon.**
+🌱 Current Student at University of Oregon pursuing a Computer Science degree.
 
-- 💡 Interests **I have a strong interest in developing web applications and implementing UI designs. I enjoy creating intuitive and engaging user experiences and am constantly exploring new tools and techniques to improve my design skills. I am also keen to learn more about creating apps to broaden my expertise in the field.**
+💡 Interests 
+I have a strong interest in developing web applications and implementing UI designs. I enjoy creating intuitive and engaging user experiences and am constantly exploring new tools and techniques to improve my design skills. I am also keen to learn more about creating apps to broaden my expertise in the field.
 
-- 📫 How to reach me **sophiez.89@outlook.com**
+📫 How to reach me **sophiez.89@outlook.com**
 
-- 🌟 Future Goals **I aspire to create and launch my own app, and I am excited to connect with professionals and peers in the field as I continue my journey.**
+🌟 Future Goals
+I'm aspire to create and launch my own app, and I am excited to connect with professionals and peers in the field as I continue my journey.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
