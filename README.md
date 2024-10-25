@@ -5,6 +5,7 @@
 
 💡 Interests 
 I have a strong interest in developing web applications and implementing UI designs. I enjoy creating intuitive and engaging user experiences and am constantly exploring new tools and techniques to improve my design skills. I am also keen to learn more about creating apps to broaden my expertise in the field.
+I also love designing notion templates used for productivity.
 
 📫 How to reach me **sophiez.89@outlook.com**
 
